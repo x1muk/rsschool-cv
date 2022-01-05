@@ -1,1 +1,1 @@
-# rsschool-cv
+https://x1muk.github.io/rsschool-cv/cv
