@@ -5,7 +5,7 @@
 ********************
 
 
-#### Contacts
+### Contacts
 ********************
 * **Location:** Saint-Petersburg, Russia
 * **E-mail:** xumxga@gmail.com
@@ -15,13 +15,13 @@
 * **Tel:** +7 921 565-56-94
 
 
-#### About Me
+### About Me
 ********************
 I am responsible, I quickly find a common language with people. 
 I love to learn something new for myself, I can work in a team and achieve results.
 
 
-#### Skills
+### Skills
 ********************
 * GIT
 * HTML
@@ -29,7 +29,7 @@ I love to learn something new for myself, I can work in a team and achieve resul
 * JavaScript (Basic level)
 
 
-#### Code example
+### Code example
 ********************
 ```
 const stark = 'Arya';
@@ -37,18 +37,18 @@ console.log(`Do you want to eat, ${stark}?`);
 ```
 
 
-#### Work experience
+### Work experience
 ********************
 *Not yet, I am currently studying*
 
 
-#### Education
+### Education
 ********************
 * **University:** St. Petersburg Electrical Engineering specialty "Software Engineer"
 * **Courses:**
     + [Intro to GIT](https://ru.hexlet.io/courses/intro_to_git)
     + [Cli Basic](https://ru.hexlet.io/courses/cli-basics)
 
-#### English
+### English
 ********************
 **A1** (I practiced English when I was working for an international company at the FIFA World Cup)
