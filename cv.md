@@ -48,6 +48,7 @@ console.log(`Do you want to eat, ${stark}?`);
 * **Courses:**
     + [Intro to GIT](https://ru.hexlet.io/courses/intro_to_git)
     + [Cli Basic](https://ru.hexlet.io/courses/cli-basics)
+    + [HTML](https://ru.code-basics.com/languages/html)
 
 ### English
 ********************
