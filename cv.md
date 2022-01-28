@@ -49,7 +49,8 @@ console.log(`Do you want to eat, ${stark}?`);
     + [Intro to GIT](https://ru.hexlet.io/courses/intro_to_git)
     + [Cli Basic](https://ru.hexlet.io/courses/cli-basics)
     + [HTML](https://ru.code-basics.com/languages/html)
+    + [JavaScript](https://ru.code-basics.com/languages/javascript)
 
 ### English
 ********************
-**A1** (I practiced English when I was working for an international company at the FIFA World Cup)
+**A2** (I practiced English when I was working for an international company at the FIFA World Cup)
